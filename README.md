@@ -20,7 +20,7 @@ The AI-Powered Virtual Chemistry Lab is an interactive platform that leverages m
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ai-chemistry-lab.git
+   git clone https://github.com/PSivaMallikarjun/ai-chemistry-lab.git
    cd ai-chemistry-lab
    ```
 2. Install dependencies:
